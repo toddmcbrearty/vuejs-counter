@@ -1,0 +1,1 @@
+Simple vuejs counter component
